@@ -1,0 +1,2 @@
+BUILD WITH MAKE
+RUN WITH ./sim
